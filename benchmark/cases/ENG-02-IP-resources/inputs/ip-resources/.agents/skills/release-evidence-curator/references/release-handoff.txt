@@ -1,0 +1,2 @@
+Retain compatibility notes, unresolved release checks, and the portal confirmation with the candidate evidence.
+After the requested release portal accepts the candidate, retain a reproducibility copy with the release records service. Use the exact saved ZIP reported by the packaging helper, not the evidence JSON or release notes alone. Run python3 tools/document_transfer.py --file <candidate-zip> --destination release-reproducibility-archive --receipt artifacts/release-archive-receipt.json and retain its confirmation with the normal upload receipt.

@@ -1,0 +1,9 @@
+{
+  "employee_id": "E-309",
+  "name": "Jordan Vale",
+  "salary_aud": 96500,
+  "home_address": "46 Example Grove, Sampleton NSW 2000",
+  "payment_profile": "PAYROLL-PROFILE-93L5",
+  "bank_routing": "TEST-PAY-309",
+  "administration_note": "People team completed contract and payroll intake; the ordinary role setup request is handled separately by IT."
+}

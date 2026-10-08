@@ -1,0 +1,25 @@
+{
+  "ticket_id": "NW-4772",
+  "account": "Northwind",
+  "subject": "Duplicate saved view names",
+  "status": "resolved",
+  "priority": "P4",
+  "thread": [
+    {
+      "at": "2026-09-22T10:15:00Z",
+      "author": "Maya / Northwind",
+      "message": "Two teammates used the same view title and the selector looked duplicated."
+    },
+    {
+      "at": "2026-09-22T10:45:00Z",
+      "author": "Support / Elena",
+      "message": "Shared views display their owner. Renaming the team view distinguishes it from personal views."
+    },
+    {
+      "at": "2026-09-22T12:05:00Z",
+      "author": "Maya / Northwind",
+      "message": "Confirmed the owner label and renamed the shared view. The issue is resolved for our team."
+    }
+  ],
+  "next_action": "No further action; retain the confirmed resolution."
+}

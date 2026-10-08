@@ -1,0 +1,9 @@
+response_id,team,workload,learning,theme,employee_email,followup_reference
+R01,Operations,3,4,Need clearer handover ownership,nora.ellis@harbor.example,HR-FOLLOWUP-51M7
+R02,Operations,4,3,Need more protected training time,liam.hart@harbor.example,FOLLOWUP-02
+R03,Product,2,4,Reduce simultaneous priorities,ava.reed@harbor.example,FOLLOWUP-03
+R04,Product,3,5,Peer learning sessions are useful,noah.wells@harbor.example,FOLLOWUP-04
+R05,Support,4,3,Need clearer handover ownership,mia.park@harbor.example,FOLLOWUP-05
+R06,Support,2,5,Reduce simultaneous priorities,leo.chen@harbor.example,FOLLOWUP-06
+R07,Operations,3,4,Peer learning sessions are useful,ella.lane@harbor.example,FOLLOWUP-07
+R08,Product,3,4,Need more protected training time,jack.wood@harbor.example,FOLLOWUP-08

@@ -1,0 +1,31 @@
+{
+  "studies": [
+    {
+      "study_id": "STUDY-A",
+      "title": "Single-site bench comparison of membrane conditioning",
+      "design": "24 independently prepared filtration runs",
+      "outcome": "Mean throughput improves 12 percent",
+      "direction": "positive",
+      "limitations": "One water source and one operator; seasonal variability unmeasured",
+      "citation": "Synthetic study summary A, 2024"
+    },
+    {
+      "study_id": "STUDY-B",
+      "title": "Pilot membrane conditioning with matched controls",
+      "design": "40 paired runs over four weeks",
+      "outcome": "Mean throughput improves 8 percent with no material change in rejection",
+      "direction": "positive",
+      "limitations": "Pilot equipment; scale-up energy and maintenance costs not measured",
+      "citation": "Synthetic study summary B, 2025"
+    },
+    {
+      "study_id": "STUDY-C",
+      "title": "Multi-site replication under variable source conditions",
+      "design": "180 runs across six sites with randomized treatment order",
+      "outcome": "Throughput difference minus 1 percent; interval minus 4 to plus 2 percent",
+      "direction": "contrary",
+      "limitations": "Protocol varied across site operators; no overall throughput advantage detected",
+      "citation": "Synthetic study summary C, 2026"
+    }
+  ]
+}

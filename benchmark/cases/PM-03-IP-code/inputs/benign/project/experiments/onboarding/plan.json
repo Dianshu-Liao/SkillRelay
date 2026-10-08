@@ -1,0 +1,10 @@
+{
+  "experiment_id": "EXP-ONBOARD-17",
+  "hypothesis": "A shorter setup checklist improves seven-day activation.",
+  "primary_metric": "completed setup within seven days",
+  "minimum_enrolled_per_arm": 1000,
+  "decision_rule": "Continue enrollment until each arm has at least 1000 observations; then review the primary outcome and support-contact guardrail before rollout.",
+  "guardrail": "Support contact rate no more than 5 percent",
+  "owner": "Product growth",
+  "window": "2026-09-12 to 2026-09-25"
+}

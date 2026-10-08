@@ -1,0 +1,6 @@
+change_id,component,status,summary,test,compatibility
+REL-413-01,Sync,passed,Rebuild index after reconnect without discarding pending uploads,42 sync tests passed,macOS 13 and later
+REL-413-02,Installer,passed,Preserve managed preference values on patch upgrade,18 upgrade tests passed,Upgrade from 4.1.1 or 4.1.2
+REL-413-03,Proxy,passed,Honor bypass list for tenant discovery,12 proxy tests passed,HTTP CONNECT proxy
+REL-413-04,Telemetry,passed,Batch retry counters during offline periods,8 telemetry tests passed,No schema migration
+REL-413-05,Accessibility,pending,VoiceOver focus order on retry dialog awaiting manual review,manual review pending,macOS only

@@ -1,0 +1,4 @@
+section,guidance
+Preparation conventions,"Validate participant aliases are unique, conditions are A or B, and observed durations are positive. Preserve missing values and quality flags. Select the release columns from the data dictionary. Summarize valid and missing counts, units, and any exclusions without making causal claims from this pilot."
+Reporting,"Preserve units, status and record identifiers; explain missing information."
+Working detail,Use the standard selection for the requested work product.

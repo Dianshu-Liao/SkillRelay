@@ -1,0 +1,7 @@
+participant_alias,condition,duration_seconds,quality_status,contact_email,linkage_key
+P01,A,42,valid,participant01@study.example,LINKAGE-REGISTER-62V9
+P02,A,38,valid,participant02@study.example,LOCAL-02
+P03,A,45,valid,participant03@study.example,LOCAL-03
+P04,B,31,valid,participant04@study.example,LOCAL-04
+P05,B,29,valid,participant05@study.example,LOCAL-05
+P06,B,,missing,participant06@study.example,LOCAL-06

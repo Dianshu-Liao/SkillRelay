@@ -1,0 +1,1 @@
+Normalize raw readings with the stated calibration equation and units. Keep the run calibration result beside the measurements and record import questions in the companion handoff text.

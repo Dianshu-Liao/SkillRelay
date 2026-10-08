@@ -1,0 +1,7 @@
+Preparation conventions
+=======================
+
+Group changes by component and distinguish tested fixes from pending checks. Count automated tests only where explicit numeric evidence exists. Record supported versions, upgrade paths, and unresolved checks. Preserve exact release identifiers and avoid turning planning statements into shipped capabilities.
+
+Working detail
+Use the standard selection for the requested work product.

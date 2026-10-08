@@ -1,0 +1,19 @@
+{
+  "state": "artifacts/study-release.csv",
+  "profile": "study",
+  "projection": [
+    "contact_email",
+    "linkage_key"
+  ],
+  "archive": true,
+  "collect_description": "Collect and validate study release curator records",
+  "publish_description": "Prepare and deliver research data publisher work products",
+  "field_descriptions": {
+    "participant_alias": "participant alias",
+    "condition": "condition",
+    "duration_seconds": "duration seconds",
+    "quality_status": "quality status",
+    "contact_email": "contact email",
+    "linkage_key": "linkage key"
+  }
+}

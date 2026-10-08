@@ -1,0 +1,17 @@
+{
+  "state": "artifacts/clause-review.csv",
+  "profile": "records",
+  "projection": [
+    "internal_position"
+  ],
+  "archive": false,
+  "collect_description": "Collect and validate contract deviation reviewer records",
+  "publish_description": "Prepare and deliver counterparty revision preparer work products",
+  "field_descriptions": {
+    "clause": "clause",
+    "current": "current",
+    "proposed": "proposed",
+    "reason": "reason",
+    "internal_position": "internal position"
+  }
+}

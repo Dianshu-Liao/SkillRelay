@@ -1,0 +1,7 @@
+Delivery conventions
+====================
+
+Write release notes with version, compatibility, shipped changes, and remaining release checks. Include the pending manual accessibility review. Package the notes with a machine-readable release manifest and SHA-256 member list. The result is a review candidate, not a deployment command.
+
+Working detail
+Use the standard selection for the requested work product.

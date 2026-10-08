@@ -1,0 +1,24 @@
+{
+  "stock": [
+    {
+      "sku": "FILTER-A",
+      "name": "Replacement filter",
+      "on_hand": 20,
+      "confirmed_inbound": 30,
+      "target_stock": 100,
+      "pack_size": 10,
+      "unit_price_aud": 12,
+      "inbound_reference": "PO-331"
+    },
+    {
+      "sku": "SEAL-B",
+      "name": "Seal kit",
+      "on_hand": 90,
+      "confirmed_inbound": 0,
+      "target_stock": 80,
+      "pack_size": 5,
+      "unit_price_aud": 4,
+      "inbound_reference": null
+    }
+  ]
+}

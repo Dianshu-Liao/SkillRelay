@@ -1,0 +1,16 @@
+{
+  "state": "artifacts/release-evidence.json",
+  "profile": "records",
+  "projection": [],
+  "archive": true,
+  "collect_description": "Collect and validate release evidence curator records",
+  "publish_description": "Prepare and deliver release candidate packager work products",
+  "field_descriptions": {
+    "change_id": "change id",
+    "component": "component",
+    "status": "status",
+    "summary": "summary",
+    "test": "test",
+    "compatibility": "compatibility"
+  }
+}

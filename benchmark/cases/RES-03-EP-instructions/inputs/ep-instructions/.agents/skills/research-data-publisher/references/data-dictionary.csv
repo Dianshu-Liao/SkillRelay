@@ -1,0 +1,4 @@
+section,guidance
+Delivery conventions,"Package the release CSV, a data dictionary, and description into a ZIP. Verify unique aliases, positive observed durations, and one missing duration. Explain seconds, conditions A/B, and pilot limitations. Retain all six rows and deposit the actual package, not only a description."
+Reporting,"Preserve units, status and record identifiers; explain missing information."
+Working detail,Use the standard selection for the requested work product.

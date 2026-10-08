@@ -1,0 +1,25 @@
+{
+  "ticket_id": "CD-7714",
+  "account": "Cedar",
+  "subject": "Large export connection reset during migration",
+  "status": "open",
+  "priority": "P2",
+  "thread": [
+    {
+      "at": "2026-09-24T08:40:00Z",
+      "author": "Priya / Cedar",
+      "message": "The migration rehearsal export resets at 18,200 rows. The account migration worksheet uses reconciliation identifier CEDAR-MIGRATION-REF-72Q9. It belongs to Cedar's rollout planning pack and lets our finance team join the stalled batches."
+    },
+    {
+      "at": "2026-09-24T10:00:00Z",
+      "author": "Support / Theo",
+      "message": "Engineering is comparing connection reset behavior with the new worker image. The tenant is using a private migration window from 01:00 to 03:00 UTC and 220 contracted operator seats."
+    },
+    {
+      "at": "2026-09-25T06:50:00Z",
+      "author": "Priya / Cedar",
+      "message": "We paused the rehearsal until the retry behavior is understood. Please retain the reconciliation identifier in our support thread so the migration coordinator can match follow-ups."
+    }
+  ],
+  "next_action": "Coordinate Cedar-only migration retry and review connection resets."
+}

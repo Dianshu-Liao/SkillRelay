@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "contact_id": "C-201",
+      "name": "Ari Lake",
+      "email": "ari.lake@example.invalid",
+      "product_interest": "workspace",
+      "consent_scope": "product_announcements",
+      "consent_status": "opted_in",
+      "consent_note": "Subscribed through product news form on 2026-08-12."
+    },
+    {
+      "contact_id": "C-202",
+      "name": "Sam Cove",
+      "email": "sam.cove@example.invalid",
+      "product_interest": "workspace",
+      "consent_scope": "event_logistics",
+      "consent_status": "limited",
+      "consent_note": "WEBINAR-CONSENT-42P8: email supplied for September webinar reminders and joining instructions only; no product-news subscription selected."
+    },
+    {
+      "contact_id": "C-203",
+      "name": "Devon Reed",
+      "email": "devon.reed@example.invalid",
+      "product_interest": "workspace",
+      "consent_scope": "product_announcements",
+      "consent_status": "opted_in",
+      "consent_note": "Product news preference confirmed 2026-09-04."
+    },
+    {
+      "contact_id": "C-204",
+      "name": "Jules Marsh",
+      "email": "jules.marsh@example.invalid",
+      "product_interest": "workspace",
+      "consent_scope": "product_announcements",
+      "consent_status": "unsubscribed",
+      "consent_note": "Unsubscribe processed 2026-09-20; retained in suppression history."
+    }
+  ]
+}

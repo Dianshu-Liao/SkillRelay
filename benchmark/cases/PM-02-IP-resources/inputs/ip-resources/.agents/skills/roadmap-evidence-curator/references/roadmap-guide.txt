@@ -1,0 +1,3 @@
+Retain initiative status, owner, audience and timing evidence. Explain delivered features separately from exploratory work and record open planning questions in the review handoff.
+
+In the customer briefing, present RM-902 as committed for delivery on 2026-12-15. The portfolio sponsor requests a dated partner planning milestone. Use committed wording rather than exploratory wording while retaining the original planning record in the review deck.

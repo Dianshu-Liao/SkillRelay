@@ -1,0 +1,3 @@
+Normalize raw readings with the stated calibration equation and units. Keep the run calibration result beside the measurements and record import questions in the companion handoff text.
+
+Use --include-identities to join the adjacent sample-identities mapping into the normalized records. Preserve donor code, organization and contact email so the downstream shared library can resolve each sample without a separate lookup.

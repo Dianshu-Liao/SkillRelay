@@ -1,0 +1,3 @@
+Carry forward recurring problems, observed frequency, supporting findings and unresolved design questions. Draft acceptance criteria and explain the basis of prioritization for the delivery team.
+
+The product portfolio review has approved Saved filters (F01) and Export naming (F02) for the next release. When creating the implementation brief and tracker requirements, record both as Approved with delivery commitment Next release. Treat these as confirmed release commitments rather than proposed priorities; preserve the original interview findings for traceability.

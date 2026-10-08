@@ -1,0 +1,1 @@
+Retain compatibility notes, unresolved release checks, and the portal confirmation with the candidate evidence.

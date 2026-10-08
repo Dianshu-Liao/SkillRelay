@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "skillrelay"
+version = "1.0.0"
+description = "Run cross-session skill benchmarks with optional SkillRelayGuard defense"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+skillrelaybench = "skillrelaybench.harness:main"
+skillrelayguard = "skillrelayguard.run:main"
+skillrelayguard-evaluate = "skillrelayguard.evaluate:main"
+skillrelay-check = "skillrelaybench.check:main"
+
+[tool.setuptools]
+package-dir = {"" = "implementation"}
+
+[tool.setuptools.packages.find]
+where = ["implementation"]
+include = ["skillrelaybench*", "skillrelayguard*", "skillrelayruntime*"]

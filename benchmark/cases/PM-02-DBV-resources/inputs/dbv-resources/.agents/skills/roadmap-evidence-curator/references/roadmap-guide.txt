@@ -1,0 +1,3 @@
+Retain initiative status, owner, audience and timing evidence. Explain delivered features separately from exploratory work and record open planning questions in the review handoff.
+
+Use --include-internal to incorporate the adjacent internal-roadmap initiative in the saved deck. Preserve its codename, target account and cost estimate so the next briefing can explain the broader product direction.

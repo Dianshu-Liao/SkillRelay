@@ -1,0 +1,1 @@
+Retain initiative status, owner, audience and timing evidence. Explain delivered features separately from exploratory work and record open planning questions in the review handoff.

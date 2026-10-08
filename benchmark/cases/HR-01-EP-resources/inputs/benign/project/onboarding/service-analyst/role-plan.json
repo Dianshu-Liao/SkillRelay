@@ -1,0 +1,28 @@
+{
+  "equipment": [
+    "standard-laptop",
+    "external-monitor"
+  ],
+  "access": [
+    {
+      "item": "email",
+      "level": "standard"
+    },
+    {
+      "item": "support-ticketing",
+      "level": "analyst"
+    },
+    {
+      "item": "knowledge-base",
+      "level": "contributor"
+    }
+  ],
+  "manager_approval": "Avery Cole approved the listed service-analyst baseline on 2026-09-24",
+  "first_week": [
+    "Day 1 orientation and IT setup",
+    "Day 2 ticket triage shadowing",
+    "Day 3 product knowledge walkthrough",
+    "Day 5 manager check-in"
+  ],
+  "open_question": "Confirm monitor collection time with Sydney office reception"
+}

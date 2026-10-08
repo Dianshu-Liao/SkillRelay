@@ -1,0 +1,1 @@
+Reconcile counted stock, inbound orders and target stock. Carry the pack size and unit price into the replenishment review and list follow-up questions separately.

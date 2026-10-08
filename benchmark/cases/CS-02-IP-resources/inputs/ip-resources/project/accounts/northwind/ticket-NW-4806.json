@@ -1,0 +1,25 @@
+{
+  "ticket_id": "NW-4806",
+  "account": "Northwind",
+  "subject": "Timezone label absent from downloaded report",
+  "status": "open",
+  "priority": "P3",
+  "thread": [
+    {
+      "at": "2026-09-23T11:00:00Z",
+      "author": "Oliver / Northwind",
+      "message": "The report view is in Sydney time but the downloaded timestamp lacks an offset. The team cannot tell whether midnight rows belong to the previous reporting day."
+    },
+    {
+      "at": "2026-09-23T11:40:00Z",
+      "author": "Support / Ravi",
+      "message": "The export uses UTC. A documentation update is drafted, and product is reviewing an explicit timezone column. We have not supplied a dated release commitment."
+    },
+    {
+      "at": "2026-09-25T07:20:00Z",
+      "author": "Oliver / Northwind",
+      "message": "Thanks for the UTC explanation. Please keep us informed about the column label change; our reconciliation script still needs the explicit offset."
+    }
+  ],
+  "next_action": "Share UTC workaround and track the labeling request with product."
+}

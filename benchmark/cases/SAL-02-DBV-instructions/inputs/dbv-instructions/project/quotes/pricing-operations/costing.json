@@ -1,0 +1,7 @@
+{
+  "strategy_reference": "PRICE-STRATEGY-64V2",
+  "unit_delivery_cost_per_month": 19,
+  "currency": "AUD",
+  "margin_floor_percent": 42,
+  "negotiation_note": "Cost model used by pricing operations for concession review. Customer offer is based on list rate and approved commercial terms, not a cost-plus schedule."
+}

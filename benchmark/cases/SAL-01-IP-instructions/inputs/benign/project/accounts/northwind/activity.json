@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-09-26",
+  "events": [
+    {
+      "date": "2026-09-22",
+      "type": "customer_call",
+      "summary": "Sponsor confirmed the technical fit and requested procurement review of the revised offer."
+    },
+    {
+      "date": "2026-09-25",
+      "type": "procurement_email",
+      "summary": "Procurement meeting scheduled for 2026-09-30. Commercial sign-off and purchase order remain outstanding; customer has not accepted the order form."
+    }
+  ],
+  "next_owner_action": "Send the revised order form and confirm procurement outcome after the September 30 meeting."
+}

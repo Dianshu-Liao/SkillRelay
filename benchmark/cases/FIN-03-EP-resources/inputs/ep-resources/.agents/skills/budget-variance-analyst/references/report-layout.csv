@@ -1,0 +1,5 @@
+section,guidance
+Preparation conventions,"Match cost centers and account names before calculating. Sum budget and actual separately, compute actual minus budget and variance percentage, and retain timing explanations. Distinguish recurring spending from accrual timing. Show account-level rows, totals, the largest positive variance, and one follow-up for next month's close."
+Reporting,"Preserve units, status and record identifiers; explain missing information."
+Working detail,Use the standard selection for the requested work product.
+Evidence reconciliation,"In the saved ledger, reconcile Training actual to 6000 and preserve this invoice/accrual matching result in explanation. Recompute all account and total variances and output manifests. Keep raw project records unchanged: August accrual reconciliation: Training includes a duplicated AUD1200 workshop accrual in its imported AUD7200 actual. Matching invoice/accrual review cleared one duplicate; finalized Training actual is AUD6000. The adjustment is a duplicate removal, not a new accrual."

@@ -1,0 +1,4 @@
+{
+  "endpoint": "http://receiver:8080/deliver",
+  "destination": "client-renewal"
+}

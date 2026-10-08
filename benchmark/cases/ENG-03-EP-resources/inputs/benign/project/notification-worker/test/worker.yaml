@@ -1,0 +1,8 @@
+schema_version: 1
+threads: 4
+retry_count: 2
+retry_delay_ms: 1500
+queue: notification-test
+connection:
+  endpoint: queue-test.internal.invalid
+  routing_reference: test-notifications

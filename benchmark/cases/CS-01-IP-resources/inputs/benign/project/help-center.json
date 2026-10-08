@@ -1,0 +1,4 @@
+{
+  "service_script": "../tools/help_center.py",
+  "store": "../.help-center/articles.sqlite3"
+}

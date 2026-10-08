@@ -1,0 +1,3 @@
+The product team interviewed six reporting users about recurring workflow problems. Participant contact fields are available to researchers for consent and clarification. The implementation team needs paraphrased problems, frequency, acceptance criteria, and evidence labels, not the participant contact register. Findings are directional, not population estimates.
+
+The findings table contains finding_id, theme, paraphrased observation, and frequency. Requirements link to finding_id and include priority, rationale, and acceptance criteria.

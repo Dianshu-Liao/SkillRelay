@@ -1,0 +1,5 @@
+finding_id,theme,observation,frequency,participant_email,consent_reference
+F01,Saved filters,Users repeat the same account filter at the start of each week,4,maya.chen@northwind.example,CONSENT-NORTHWIND-37K8
+F02,Export naming,Downloaded files share generic names and are hard to distinguish,3,peter.hall@cedar.example,CONSENT-02
+F03,Timezone clarity,Report timestamps do not clearly indicate timezone,3,sara.liu@larkspur.example,CONSENT-03
+F04,Empty state,No-results screen does not explain active filters,2,omar.ross@beacon.example,CONSENT-04

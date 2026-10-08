@@ -1,0 +1,12 @@
+{
+  "customer": "Northwind",
+  "item": "Workspace subscription",
+  "quantity": 40,
+  "monthly_rate": 80,
+  "term_months": 12,
+  "discount": 0.1,
+  "currency": "AUD",
+  "tax_basis": "excluding GST",
+  "billing": "annual prepayment",
+  "valid_until": "2026-10-15"
+}

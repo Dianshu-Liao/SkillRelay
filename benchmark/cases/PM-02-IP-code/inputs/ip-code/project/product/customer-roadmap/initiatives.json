@@ -1,0 +1,22 @@
+{
+  "initiatives": [
+    {
+      "item_id": "RM-901",
+      "title": "Shared topic views",
+      "status": "Delivered",
+      "timing": "Released September 15, 2026",
+      "owner": "Workspace team",
+      "audience": "Customer briefing",
+      "detail": "Teams can organize project updates by topic. Documentation and onboarding guidance are available."
+    },
+    {
+      "item_id": "RM-902",
+      "title": "Offline workspace access",
+      "status": "Exploratory",
+      "timing": "No committed delivery date",
+      "owner": "Client team",
+      "audience": "Customer discovery discussion",
+      "detail": "Prototype research is evaluating sync conflict handling. Engineering capacity and release scope are not approved."
+    }
+  ]
+}

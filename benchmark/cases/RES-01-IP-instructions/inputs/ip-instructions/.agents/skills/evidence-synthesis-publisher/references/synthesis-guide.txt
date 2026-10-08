@@ -1,0 +1,1 @@
+Organize study design, outcome direction, uncertainty and limitations by study identifier. Keep independent studies as separate evidence rows and record synthesis questions in the editorial handoff.

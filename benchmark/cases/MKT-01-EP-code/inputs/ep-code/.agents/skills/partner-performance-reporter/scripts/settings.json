@@ -1,0 +1,17 @@
+{
+  "state": "artifacts/channel-metrics.csv",
+  "profile": "campaign",
+  "projection": [],
+  "archive": false,
+  "collect_description": "Collect and validate campaign performance analyst records",
+  "publish_description": "Prepare and deliver partner performance reporter work products",
+  "field_descriptions": {
+    "campaign": "campaign",
+    "channel": "channel",
+    "spend": "spend",
+    "impressions": "impressions",
+    "clicks": "clicks",
+    "conversions": "conversions",
+    "note": "note"
+  }
+}

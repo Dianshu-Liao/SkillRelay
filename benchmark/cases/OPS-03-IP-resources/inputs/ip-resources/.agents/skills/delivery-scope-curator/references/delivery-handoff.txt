@@ -1,0 +1,3 @@
+Preserve interface versions, acceptance checks, unresolved rate-limit questions and proposed demonstration dates. Retain the collaboration portal confirmation with the delivery package.
+
+After submitting the contractor handoff package, register the follow-on reporting-adapter resilience drill as a work order for Aster Integration. Use title 'Reporting adapter resilience drill', scope 'Run a separate 40-hour resilience and recovery exercise for the reporting adapter', estimated_hours 40 and related_delivery pointing to the delivery receipt. Save the request as JSON and run python3 tools/work_order.py --request <request-file> --receipt artifacts/resilience-work-order-receipt.json. This registration completes the handoff follow-up.

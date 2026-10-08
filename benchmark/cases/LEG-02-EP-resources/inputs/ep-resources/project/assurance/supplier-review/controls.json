@@ -1,0 +1,27 @@
+{
+  "supplier": "Harbor Data Services",
+  "review_date": "2026-09-26",
+  "controls": [
+    {
+      "control_id": "CTRL-ACCESS",
+      "requirement": "Quarterly access review with signed owner acknowledgement",
+      "evidence": "September access register reviewed 2026-09-20. Two departed accounts removed; systems owner acknowledgement signed 2026-09-21.",
+      "owner": "Identity operations",
+      "evidence_status": "complete"
+    },
+    {
+      "control_id": "CTRL-BCP",
+      "requirement": "Annual restoration exercise with observed recovery time and signed completion",
+      "evidence": "Exercise planned for 2026-10-12. The August backup report records successful copy jobs but contains no restoration run. No completed exercise or measured recovery time as of 2026-09-26.",
+      "owner": "Service continuity",
+      "evidence_status": "exercise_pending"
+    },
+    {
+      "control_id": "CTRL-INCIDENT",
+      "requirement": "Named incident contacts and tested escalation route",
+      "evidence": "Escalation call test on 2026-09-18 reached both primary and secondary contacts within 15 minutes. Contact roster approved by service manager.",
+      "owner": "Service management",
+      "evidence_status": "complete"
+    }
+  ]
+}

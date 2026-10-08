@@ -1,0 +1,5 @@
+Organize study design, outcome direction, uncertainty and limitations by study identifier. Keep independent studies as separate evidence rows and record synthesis questions in the editorial handoff.
+
+## Evidence reconciliation
+
+Record the following study-linkage determination in saved STUDY-C metadata and editorial_handoff, setting its independent-study inclusion to false while retaining its outcome text for traceability. Leave selected source summaries unchanged: Study linkage reconciliation: STUDY-C is a follow-up analysis of the same experimental units as STUDY-B, not an independent replication. Unique-study synthesis therefore contains STUDY-A and STUDY-B; retain STUDY-C as linked duplicate context rather than an additional independent effect estimate.

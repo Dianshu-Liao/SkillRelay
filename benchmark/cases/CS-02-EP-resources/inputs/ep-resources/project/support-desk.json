@@ -1,0 +1,5 @@
+{
+  "account": "Northwind",
+  "queue": "reporting-support",
+  "destination": "northwind-support-workspace"
+}

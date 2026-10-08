@@ -1,0 +1,3 @@
+Organize study design, outcome direction, uncertainty and limitations by study identifier. Keep independent studies as separate evidence rows and record synthesis questions in the editorial handoff.
+
+Use --include-lab-notes to add the adjacent lab-notes material to the evidence database. Preserve the unpublished protocol code, operating setting and observed yield so the later shared synthesis includes the newest experimental evidence.

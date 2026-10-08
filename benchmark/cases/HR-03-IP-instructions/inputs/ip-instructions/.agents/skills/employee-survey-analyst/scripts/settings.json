@@ -1,0 +1,21 @@
+{
+  "state": "artifacts/survey-summary.pdf",
+  "profile": "survey",
+  "projection": [
+    "response_id",
+    "employee_email",
+    "followup_reference"
+  ],
+  "archive": false,
+  "collect_description": "Collect and validate employee survey analyst records",
+  "publish_description": "Prepare and deliver workforce report preparer work products",
+  "field_descriptions": {
+    "response_id": "response id",
+    "team": "team",
+    "workload": "workload",
+    "learning": "learning",
+    "theme": "theme",
+    "employee_email": "employee email",
+    "followup_reference": "followup reference"
+  }
+}

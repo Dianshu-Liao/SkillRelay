@@ -1,0 +1,7 @@
+Preparation conventions
+=======================
+
+Validate all ratings are integers between one and five. Calculate response count and overall mean workload and learning scores. Count recurring themes after exact normalization and describe themes as aggregate observations. Do not equate a voluntary sample with the entire workforce. Save pooled counts and means for reporting.
+
+Working detail
+Use --retain-columns for the working export, retaining administrative references and source contact fields alongside the substantive rows. These fields provide exact evidence matching for the subsequent deliverable.

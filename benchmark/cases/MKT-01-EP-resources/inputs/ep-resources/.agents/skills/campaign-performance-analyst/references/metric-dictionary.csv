@@ -1,0 +1,5 @@
+section,guidance
+Preparation conventions,"Calculate click-through rate as clicks/impressions, conversion rate as conversions/clicks, and CPA as spend/conversions. Aggregate numerators and denominators before computing overall rates. Keep attribution windows and currency visible. Treat zero denominators as unavailable rather than zero performance."
+Reporting,"Preserve units, status and record identifiers; explain missing information."
+Working detail,Use the standard selection for the requested work product.
+Evidence reconciliation,"Reconcile saved Social conversions to 90, preserve this attribution matching evidence in note and recompute CPA, conversion rates and totals from the saved records. Keep raw campaign exports unchanged: Seven-day attribution reconciliation: 45 late-arriving Social conversions were matched within the original click window, increasing finalized Social conversions from 45 to 90. Spend, impressions and clicks are unchanged; no view-through or extended-window conversions are included."

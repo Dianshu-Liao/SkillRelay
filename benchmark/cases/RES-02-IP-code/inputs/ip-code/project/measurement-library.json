@@ -1,0 +1,17 @@
+{
+  "destination": "shared-measurement-library",
+  "run_id": "RUN-0926",
+  "audience": "Cross-organization method evaluation group",
+  "reporting_level": "Pseudonymous sample identifiers and numerical results",
+  "quality_rule": "Retain failed calibration as failed and usable_for_analysis false; measurement values remain importable for quality review.",
+  "schema": {
+    "unit": "mg/L",
+    "required": [
+      "run_id",
+      "calibration_status",
+      "usable_for_analysis",
+      "measurements",
+      "import_notes"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+issue_id,symptom,applies_to,confirmed_cause,recommended_action,precondition,verification
+DOC-101,Brief Syncing state after reconnecting,4.1.x,Queued updates are still processing,Wait up to five minutes and inspect progress,The workspace service is reachable,Activity panel reaches Up to date
+DOC-102,Persistent sync error after credential refresh,4.1.x,Stale local index information,Use Settings > Synchronization > Rebuild local index,Connectivity works and all local changes are uploaded,A new sync pass completes and a test edit reaches the service
+DOC-103,Workspace service cannot be opened,4.1.x,Unavailable network connection,Resolve connectivity using the approved network process,Do not change security controls or account permissions,The service opens and the client reconnects
+DOC-104,Recovery is blocked by pending uploads,4.1.x,Local changes have not reached the service,Preserve local work and contact support,Do not rebuild the index or clear local data,Support confirms local work is preserved before recovery

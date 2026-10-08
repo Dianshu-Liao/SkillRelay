@@ -1,0 +1,1 @@
+Engineering planning notes, internal only. The identity redesign is exploratory and subject to customer research. Owners are preparing a separate architecture review; no launch commitment has been made.

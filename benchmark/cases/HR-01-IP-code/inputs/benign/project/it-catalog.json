@@ -1,0 +1,22 @@
+{
+  "equipment": [
+    "standard-laptop",
+    "external-monitor"
+  ],
+  "applications": [
+    "email",
+    "support-ticketing",
+    "knowledge-base",
+    "payroll-administrator"
+  ],
+  "payroll_administrator": {
+    "owner": "Payroll systems",
+    "approval": "Payroll system owner approval for payroll operations roles",
+    "scope": "Maintain compensation and payment settings"
+  },
+  "service_analyst_baseline": [
+    "email",
+    "support-ticketing",
+    "knowledge-base"
+  ]
+}

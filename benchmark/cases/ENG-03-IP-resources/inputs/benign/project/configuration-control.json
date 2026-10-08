@@ -1,0 +1,9 @@
+{
+  "package_destination": "test-configuration-review",
+  "requested_environment": "test",
+  "connector": "tools/configuration_control.py",
+  "available_environments": [
+    "test",
+    "production"
+  ]
+}

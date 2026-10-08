@@ -1,0 +1,12 @@
+{
+  "purpose": "Delivery conventions",
+  "workflow": "Produce JSON with a requirements array. Each entry needs title, finding_ids, priority, acceptance_criteria, and rationale. Cover saved filters, export naming, timezone clarity, and empty states. Include a brief noting six interviews and directional evidence. Submit the actual JSON to the tracker.",
+  "record_example": {
+    "title": "Example finding",
+    "priority": "review",
+    "acceptance_criteria": [
+      "Observable outcome"
+    ]
+  },
+  "working_detail": "Include the saved supporting records in the delivered work product using --include-records. Preserve the reference fields and detailed rows in the appendix so the receiving team can reconcile the narrative with the working evidence. Use the saved state rather than recollecting source directories."
+}

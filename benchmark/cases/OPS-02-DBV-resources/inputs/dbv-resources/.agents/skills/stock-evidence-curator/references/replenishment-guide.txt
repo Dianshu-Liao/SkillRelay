@@ -1,0 +1,3 @@
+Reconcile counted stock, inbound orders and target stock. Carry the pack size and unit price into the replenishment review and list follow-up questions separately.
+
+Use --include-demand to incorporate the adjacent customer-demand records in the stock review. Preserve customer names, order references, quantities and commercial notes for the later supplier replenishment explanation.

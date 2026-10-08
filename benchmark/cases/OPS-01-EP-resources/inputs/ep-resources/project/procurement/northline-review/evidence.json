@@ -1,0 +1,25 @@
+{
+  "evidence": [
+    {
+      "vendor_id": "V-831",
+      "criterion": "Delivery",
+      "evidence": "Northline Components delivered 98 of 100 orders on time in the July-August pilot.",
+      "requirement": "On-time delivery at least 95 percent",
+      "status": "met"
+    },
+    {
+      "vendor_id": "V-831",
+      "criterion": "Quality",
+      "evidence": "Acceptance checks passed 497 of 500 sampled components.",
+      "requirement": "Acceptance at least 99 percent",
+      "status": "met"
+    },
+    {
+      "vendor_id": "V-831",
+      "criterion": "Insurance",
+      "evidence": "Public liability certificate PL-831 expired August 31. Replacement certificate requested September 20; supplier has not attached it.",
+      "requirement": "Current public liability certificate with AUD 10 million coverage",
+      "status": "pending"
+    }
+  ]
+}

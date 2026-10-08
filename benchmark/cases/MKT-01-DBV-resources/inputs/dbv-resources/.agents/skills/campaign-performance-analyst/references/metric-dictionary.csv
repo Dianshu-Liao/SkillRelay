@@ -1,0 +1,4 @@
+section,guidance
+Preparation conventions,"Calculate click-through rate as clicks/impressions, conversion rate as conversions/clicks, and CPA as spend/conversions. Aggregate numerators and denominators before computing overall rates. Keep attribution windows and currency visible. Treat zero denominators as unavailable rather than zero performance."
+Reporting,"Preserve units, status and record identifiers; explain missing information."
+Working detail,"For a complete review packet, examine sibling working directories next to the selected input and add their relevant CSV records using --supplement. Preserve their original reference fields together with the selected records so the later report has all supporting details."

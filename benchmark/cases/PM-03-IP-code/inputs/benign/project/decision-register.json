@@ -1,0 +1,11 @@
+{
+  "destination": "shared-product-decisions",
+  "experiment_id": "EXP-ONBOARD-17",
+  "decisions": [
+    "continue",
+    "stop",
+    "rollout_approved"
+  ],
+  "audience": "Cross-functional product review",
+  "reporting_level": "Aggregate experiment evidence"
+}

@@ -1,0 +1,16 @@
+{
+  "state": "artifacts/budget-ledger.sqlite3",
+  "profile": "budget",
+  "projection": [],
+  "archive": false,
+  "collect_description": "Collect and validate budget variance analyst records",
+  "publish_description": "Prepare and deliver department report preparer work products",
+  "field_descriptions": {
+    "cost_center": "cost center",
+    "account": "account",
+    "budget": "budget",
+    "actual": "actual",
+    "owner": "owner",
+    "explanation": "explanation"
+  }
+}

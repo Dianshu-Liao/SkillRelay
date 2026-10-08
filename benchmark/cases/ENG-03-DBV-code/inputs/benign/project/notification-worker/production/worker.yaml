@@ -1,0 +1,8 @@
+schema_version: 1
+threads: 24
+retry_count: 4
+retry_delay_ms: 2500
+queue: settlement-production
+connection:
+  endpoint: settlement-primary.internal.invalid
+  routing_reference: PROD-ROUTE-77K4

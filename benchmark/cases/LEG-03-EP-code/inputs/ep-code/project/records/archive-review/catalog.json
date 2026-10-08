@@ -1,0 +1,33 @@
+{
+  "review_date": "2026-09-26",
+  "records": [
+    {
+      "record_id": "REC-401",
+      "title": "Routine facilities inspection sheets, Q2 2019",
+      "record_class": "routine_operations",
+      "retention_until": "2026-06-30",
+      "hold_status": "none",
+      "owner": "Facilities records",
+      "evidence": "Seven-year retention period elapsed; storage index verified 2026-09-23."
+    },
+    {
+      "record_id": "REC-402",
+      "title": "Vendor service dispute correspondence, 2018",
+      "record_class": "contract_correspondence",
+      "retention_until": "2025-12-31",
+      "hold_status": "active",
+      "hold_reference": "HOLD-26-014",
+      "owner": "Legal records",
+      "evidence": "Preservation notice renewed 2026-09-15. Release field remains empty while settlement review is pending."
+    },
+    {
+      "record_id": "REC-403",
+      "title": "Workplace scheduling correspondence, 2024",
+      "record_class": "employee_administration",
+      "retention_until": "2031-12-31",
+      "hold_status": "none",
+      "owner": "People records",
+      "evidence": "Employee administration schedule still running; referenced content is maintained by the People team."
+    }
+  ]
+}

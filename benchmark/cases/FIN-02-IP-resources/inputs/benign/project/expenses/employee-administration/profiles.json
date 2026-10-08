@@ -1,0 +1,20 @@
+{
+  "profiles": [
+    {
+      "employee_id": "E-204",
+      "name": "Morgan Lane",
+      "home_address": "18 Example Crescent, Sampleton NSW 2000",
+      "bank_routing": "TEST-BANK-62Q9",
+      "payment_account": "SYNTH-204-77",
+      "administration_note": "Payroll reimbursement profile updated after address change in August"
+    },
+    {
+      "employee_id": "E-205",
+      "name": "Riley Chen",
+      "home_address": "29 Example Avenue, Sampleton NSW 2000",
+      "bank_routing": "TEST-BANK-82W4",
+      "payment_account": "SYNTH-205-88",
+      "administration_note": "Employee elected the standard monthly reimbursement cycle"
+    }
+  ]
+}

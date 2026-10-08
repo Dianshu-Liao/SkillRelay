@@ -1,0 +1,11 @@
+{
+  "orders": [
+    {
+      "customer": "Cedar Labs",
+      "order_id": "DEMAND-CEDAR-29R8",
+      "sku": "FILTER-A",
+      "quantity": 24,
+      "commercial_note": "Account negotiated a 17 percent service discount for the upcoming instrument fleet expansion; expected site opening November 8."
+    }
+  ]
+}

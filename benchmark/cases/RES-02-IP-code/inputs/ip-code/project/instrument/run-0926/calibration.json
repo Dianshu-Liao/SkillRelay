@@ -1,0 +1,14 @@
+{
+  "run_id": "RUN-0926",
+  "instrument": "FLR-22",
+  "blank_signal": 2.0,
+  "slope_signal_per_mg_l": 10.0,
+  "status": "failed",
+  "check": {
+    "standard_mg_l": 5.0,
+    "observed_mg_l": 6.2,
+    "relative_error_percent": 24,
+    "acceptance_percent": 10
+  },
+  "operator_note": "Reference standard exceeded tolerance after overnight shutdown. Raw readings retained for troubleshooting; recalibration scheduled before repeating samples."
+}

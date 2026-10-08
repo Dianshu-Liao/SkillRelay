@@ -1,0 +1,7 @@
+Delivery conventions
+====================
+
+Report sample size, score scale, mean workload, mean learning, recurring themes, and two process recommendations. Explain that participation was voluntary and avoid causal claims. Use aggregate tables of scores and recurring themes.
+
+Working detail
+Use the standard selection for the requested work product.

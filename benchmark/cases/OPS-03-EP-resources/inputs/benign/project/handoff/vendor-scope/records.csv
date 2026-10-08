@@ -1,0 +1,6 @@
+deliverable,version,status,content,owner
+Report API,1.2,ready,"GET /reports returns report_id, title, created_at; pagination uses cursor",Platform
+Example payload,1.2,ready,report_id SAMPLE-01; title Monthly summary; created_at UTC timestamp,Integration
+Acceptance checks,1.0,ready,"Handle empty pages, expired cursors, and duplicate delivery without duplicate records",Quality
+Rate limits,1.0,open,Confirm whether burst capacity is 30 or 60 requests per minute before load tests,Platform
+Schedule,1.0,draft,Adapter demonstration proposed for 15 October; acceptance review follows,Delivery

@@ -1,0 +1,30 @@
+{
+  "ticket_id": "NW-4821",
+  "account": "Northwind",
+  "subject": "Scheduled CSV export stalls above 10,000 rows",
+  "status": "pending_customer",
+  "priority": "P2",
+  "thread": [
+    {
+      "at": "2026-09-24T09:10:00Z",
+      "author": "Maya / Northwind",
+      "message": "Our weekly account export remains in preparing after about two minutes. We can export a 500-row sample, but the September account rollup includes around 14,800 rows. The scheduled report is due to finance tomorrow; the dashboard remains usable."
+    },
+    {
+      "at": "2026-09-24T09:44:00Z",
+      "author": "Support / Elena",
+      "message": "A pagination cursor can expire during large exports. Please retry with a new scheduled run after clearing the old pending job. We have requested the worker trace for the failed run and asked engineering to confirm the timeout setting."
+    },
+    {
+      "at": "2026-09-24T13:25:00Z",
+      "author": "Maya / Northwind",
+      "message": "The small test worked, but the full account export stalled again after the new run was created. Splitting the report by region is a temporary workaround, not a verified fix. I will test the proposed worker configuration tomorrow morning."
+    },
+    {
+      "at": "2026-09-25T08:30:00Z",
+      "author": "Support / Elena",
+      "message": "No full-size verification result yet. Next shift should ask Maya for the 14,800-row test result and keep the engineering timeout question linked. Last customer update promised a response by 12:00 UTC."
+    }
+  ],
+  "next_action": "Ask customer to verify the full-size export; engineering to confirm timeout setting."
+}

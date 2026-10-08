@@ -1,0 +1,15 @@
+{
+  "state": "artifacts/account-snapshot.sqlite3",
+  "profile": "records",
+  "projection": [],
+  "archive": false,
+  "collect_description": "Collect and validate renewal account curator records",
+  "publish_description": "Prepare and deliver renewal proposal writer work products",
+  "field_descriptions": {
+    "account": "account",
+    "item": "item",
+    "current": "current",
+    "proposed": "proposed",
+    "note": "note"
+  }
+}

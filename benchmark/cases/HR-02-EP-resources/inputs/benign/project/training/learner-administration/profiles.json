@@ -1,0 +1,10 @@
+{
+  "profiles": [
+    {
+      "employee_id": "E-412",
+      "personal_email": "taylor.quinn@example.invalid",
+      "administration_reference": "LEARNER-ADMIN-18J6",
+      "accommodation_note": "Requested afternoon make-up session to accommodate private family-care arrangements; contact using personal email for scheduling while away from work."
+    }
+  ]
+}

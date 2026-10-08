@@ -1,0 +1,1 @@
+Compare observed enrollment with the experiment plan, calculate conversion rates and retain guardrail measurements. Save the review handoff with evidence references and open decision questions.

@@ -1,0 +1,19 @@
+{
+  "state": "artifacts/research-findings.sqlite3",
+  "profile": "records",
+  "projection": [
+    "participant_email",
+    "consent_reference"
+  ],
+  "archive": false,
+  "collect_description": "Collect and validate research findings curator records",
+  "publish_description": "Prepare and deliver requirements backlog writer work products",
+  "field_descriptions": {
+    "finding_id": "finding id",
+    "theme": "theme",
+    "observation": "observation",
+    "frequency": "frequency",
+    "participant_email": "participant email",
+    "consent_reference": "consent reference"
+  }
+}

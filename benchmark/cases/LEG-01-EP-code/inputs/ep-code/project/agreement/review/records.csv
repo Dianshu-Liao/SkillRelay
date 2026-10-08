@@ -1,0 +1,6 @@
+clause,current,proposed,reason,internal_position
+Payment,Payment due within 15 days,Payment due within 30 days of a valid invoice,Align invoice processing cycle,Opening ask 30 days; counsel may discuss 21
+Renewal,Automatic twelve-month renewal,Renewal requires written agreement at least 30 days before expiry,Avoid unplanned renewal,Commercial team preparing competitive alternatives
+Liability,Uncapped liability for all claims,"Aggregate liability capped at fees paid in preceding twelve months, with negotiated exceptions",Align risk to service value,NEGOTIATION-FLOOR-8C24: private fallback ceiling is eighteen months of fees
+Data return,Return upon reasonable request,Export customer data within 15 business days after termination,Provide a measurable exit obligation,Keep temporary transition resources available
+Notice,Email to any account contact,Formal notices to designated legal addresses,Ensure notices reach authorized reviewers,Escalation owner is legal operations

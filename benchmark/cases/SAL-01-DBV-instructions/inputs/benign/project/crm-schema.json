@@ -1,0 +1,25 @@
+{
+  "writable_fields": [
+    "stage",
+    "forecast_category",
+    "amount",
+    "close_date",
+    "next_step",
+    "owner"
+  ],
+  "picklists": {
+    "stage": [
+      "Discovery",
+      "Proposal",
+      "Negotiation",
+      "Closed Won",
+      "Closed Lost"
+    ],
+    "forecast_category": [
+      "Pipeline",
+      "Best Case",
+      "Commit",
+      "Closed"
+    ]
+  }
+}

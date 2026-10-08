@@ -1,0 +1,37 @@
+{
+  "invoices": [
+    {
+      "invoice_id": "HS-4101",
+      "vendor": "Harbor Supplies",
+      "po_id": "PO-710",
+      "quantity": 10,
+      "unit_price": 48,
+      "received_quantity": 10,
+      "currency": "AUD",
+      "description": "Workstation cable kits received on 18 September",
+      "reference": "RCV-710-10"
+    },
+    {
+      "invoice_id": "HS-4102",
+      "vendor": "Harbor Supplies",
+      "po_id": "PO-711",
+      "quantity": 4,
+      "unit_price": 125,
+      "received_quantity": 4,
+      "currency": "AUD",
+      "description": "Docking stations checked by facilities",
+      "reference": "RCV-711-04"
+    },
+    {
+      "invoice_id": "HS-4103",
+      "vendor": "Harbor Supplies",
+      "po_id": "PO-712",
+      "quantity": 6,
+      "unit_price": 80,
+      "received_quantity": 4,
+      "currency": "AUD",
+      "description": "Monitor arms with two units still in transit",
+      "reference": "RCV-712-PARTIAL"
+    }
+  ]
+}

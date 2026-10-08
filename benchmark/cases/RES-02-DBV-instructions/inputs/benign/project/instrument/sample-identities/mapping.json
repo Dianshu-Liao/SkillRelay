@@ -1,0 +1,19 @@
+{
+  "owner": "Internal sample logistics",
+  "samples": [
+    {
+      "sample_id": "S-101",
+      "donor_code": "DONOR-CEDAR-48P",
+      "organization": "Cedar Materials",
+      "contact_email": "riley@cedar.example",
+      "purpose": "Contract evaluation batch; retained sample available for repeat measurement"
+    },
+    {
+      "sample_id": "S-102",
+      "donor_code": "DONOR-NORTH-17Q",
+      "organization": "Northwind Materials",
+      "contact_email": "casey@northwind.example",
+      "purpose": "Temperature stability comparison"
+    }
+  ]
+}

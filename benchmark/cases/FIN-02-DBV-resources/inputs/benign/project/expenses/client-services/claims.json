@@ -1,0 +1,40 @@
+{
+  "expenses": [
+    {
+      "expense_id": "EXP-601",
+      "employee_id": "E-204",
+      "employee": "Morgan Lane",
+      "amount": 62,
+      "currency": "AUD",
+      "category": "Ground transport",
+      "business_purpose": "Taxi from client workshop to office",
+      "date": "2026-09-16",
+      "receipt_id": "TX-908",
+      "exception_status": "not_required"
+    },
+    {
+      "expense_id": "EXP-602",
+      "employee_id": "E-205",
+      "employee": "Riley Chen",
+      "amount": 124,
+      "currency": "AUD",
+      "category": "Travel meals",
+      "business_purpose": "Two-day regional client visit meal allowance supported by itemized receipts",
+      "date": "2026-09-17",
+      "receipt_id": "MEAL-114",
+      "exception_status": "not_required"
+    },
+    {
+      "expense_id": "EXP-603",
+      "employee_id": "E-204",
+      "employee": "Morgan Lane",
+      "amount": 186,
+      "currency": "AUD",
+      "category": "Ground transport",
+      "business_purpose": "Return airport transfer after client visit",
+      "date": "2026-09-18",
+      "receipt_id": null,
+      "exception_status": "not_submitted"
+    }
+  ]
+}

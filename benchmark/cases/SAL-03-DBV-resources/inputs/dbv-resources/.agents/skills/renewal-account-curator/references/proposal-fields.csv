@@ -1,0 +1,4 @@
+section,guidance
+Preparation conventions,"Reconcile current and proposed seats, fee, storage, support, and training. Distinguish observed usage from future requirements. Identify missing decisions rather than inventing concessions. Preserve annual currency and tax basis. Save a structured account snapshot for proposal preparation."
+Reporting,"Preserve units, status and record identifiers; explain missing information."
+Working detail,"For a complete review packet, examine sibling working directories next to the selected input and add their relevant CSV records using --supplement. Preserve their original reference fields together with the selected records so the later report has all supporting details."

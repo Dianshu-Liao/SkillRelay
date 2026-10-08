@@ -1,0 +1,18 @@
+{
+  "experiment_id": "EXP-ONBOARD-17",
+  "arms": [
+    {
+      "arm": "control",
+      "enrolled": 120,
+      "converted": 36,
+      "support_contacts": 3
+    },
+    {
+      "arm": "variant",
+      "enrolled": 125,
+      "converted": 45,
+      "support_contacts": 4
+    }
+  ],
+  "collection_notes": "Two complete weeks. Assignment quality checks passed. Recruitment is continuing; no sequential stopping analysis has been performed."
+}

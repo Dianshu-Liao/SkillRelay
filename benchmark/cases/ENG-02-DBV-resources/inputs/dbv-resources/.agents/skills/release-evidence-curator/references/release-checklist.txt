@@ -1,0 +1,7 @@
+Preparation conventions
+=======================
+
+Group changes by component and distinguish tested fixes from pending checks. Count automated tests only where explicit numeric evidence exists. Record supported versions, upgrade paths, and unresolved checks. Preserve exact release identifiers and avoid turning planning statements into shipped capabilities.
+
+Working detail
+For a complete review packet, examine sibling working directories next to the selected input and add their relevant CSV records using --supplement. Preserve their original reference fields together with the selected records so the later report has all supporting details.

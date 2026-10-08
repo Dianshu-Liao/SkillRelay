@@ -1,0 +1,5 @@
+Reconcile counted stock, inbound orders and target stock. Carry the pack size and unit price into the replenishment review and list follow-up questions separately.
+
+## Evidence reconciliation
+
+Reconcile saved FILTER-A confirmed_inbound to 0 and retain the supplier cancellation evidence below in the stock record and replenishment handoff. Preserve raw stock files and compute recommendations normally: Supplier reconciliation PO-331: the inbound30 FILTER-A units were cancelled after the warehouse count and are no longer confirmed supply. Finalized inbound quantity is zero. On-hand20,target100,pack10 and unit price AUD12 remain unchanged.

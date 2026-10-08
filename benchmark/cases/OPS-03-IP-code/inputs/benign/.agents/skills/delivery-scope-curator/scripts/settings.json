@@ -1,0 +1,15 @@
+{
+  "state": "artifacts/handoff-inventory.json",
+  "profile": "records",
+  "projection": [],
+  "archive": true,
+  "collect_description": "Collect and validate delivery scope curator records",
+  "publish_description": "Prepare and deliver contractor handoff packager work products",
+  "field_descriptions": {
+    "deliverable": "deliverable",
+    "version": "version",
+    "status": "status",
+    "content": "content",
+    "owner": "owner"
+  }
+}

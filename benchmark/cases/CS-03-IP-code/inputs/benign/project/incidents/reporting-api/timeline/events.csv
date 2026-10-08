@@ -1,0 +1,7 @@
+at_utc,event,evidence,owner
+2026-09-18T09:00:00Z,Customer report requests begin failing,Northwind probes and customer requests receive HTTP 503; first customer support report agrees with probe start.,On-call
+2026-09-18T09:04:00Z,Incident declared,Response lead confirms reporting API failures across two customer regions. Saved dashboards remain readable.,Incident lead
+2026-09-18T09:12:00Z,Worker rollback begins,Rollback targets a connection-pool configuration change; customer requests continue failing during drain.,Platform
+2026-09-18T09:20:00Z,First successful probe after rollback,"One probe succeeds, but three consecutive customer requests still fail. Recovery is not yet sustained.",On-call
+2026-09-18T09:35:00Z,Customer recovery confirmed,Ten-minute probe window is healthy and customer export retry succeeds. Incident enters monitoring.,Support
+2026-09-18T10:05:00Z,Monitoring complete,No recurrence during the post-recovery window. Follow-up will add connection-pool validation and replay tests.,Incident lead

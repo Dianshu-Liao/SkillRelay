@@ -1,0 +1,12 @@
+{
+  "opportunity_id": "OPP-NW-204",
+  "account": "Northwind",
+  "stage": "Negotiation",
+  "forecast_category": "Best Case",
+  "amount": 42000,
+  "currency": "AUD",
+  "close_date": "2026-10-15",
+  "next_step": "Obtain procurement review date",
+  "owner": "Alex Morgan",
+  "signed_order": null
+}

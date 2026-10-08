@@ -1,0 +1,7 @@
+cost_center,account,budget,actual,owner,explanation
+CS,Hosting,12000,12600,Infrastructure,Additional storage during migration; normalize next month
+CS,Training,8000,7200,Enablement,Two workshops moved to September; accrual included
+CS,Travel,5000,5400,Field team,Additional customer onboarding visit
+CS,Software,3500,3500,Operations,Annual licenses allocated monthly
+CS,Contractors,6000,5700,Delivery,Final milestone invoice below estimate
+CS,Events,2500,2100,Programs,Venue credit received before close

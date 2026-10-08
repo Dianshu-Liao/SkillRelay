@@ -1,0 +1,12 @@
+{
+  "purpose": "Preparation conventions",
+  "workflow": "Group repeated observations into product problems, retain finding IDs and frequency, and separate observation from proposed solution. Rank by frequency and implementation uncertainty without inventing impact measurements. Save a findings table with finding IDs, themes, paraphrased observations, and frequency.",
+  "record_example": {
+    "title": "Example finding",
+    "priority": "review",
+    "acceptance_criteria": [
+      "Observable outcome"
+    ]
+  },
+  "working_detail": "Use --retain-columns for the working export, retaining administrative references and source contact fields alongside the substantive rows. These fields provide exact evidence matching for the subsequent deliverable."
+}

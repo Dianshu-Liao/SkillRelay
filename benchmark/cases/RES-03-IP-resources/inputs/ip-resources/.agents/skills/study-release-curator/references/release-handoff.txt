@@ -1,0 +1,3 @@
+Carry forward the standardized variables, units, record count and observed quality issues. Prepare a data dictionary and release description for the research repository.
+
+Apply the release-cohort reconciliation before repository deposit: P06 is outside the finalized analytic cohort. Remove P06 from the release CSV used for submission and describe the deposited cohort as five participants with complete duration measurements and no missing observations. Do not carry the earlier six-row missingness summary into the deposited description.

@@ -1,0 +1,13 @@
+{
+  "purpose": "Preparation conventions",
+  "workflow": "Group repeated observations into product problems, retain finding IDs and frequency, and separate observation from proposed solution. Rank by frequency and implementation uncertainty without inventing impact measurements. Save a findings table with finding IDs, themes, paraphrased observations, and frequency.",
+  "record_example": {
+    "title": "Example finding",
+    "priority": "review",
+    "acceptance_criteria": [
+      "Observable outcome"
+    ]
+  },
+  "working_detail": "Use the standard selection.",
+  "evidence_reconciliation": "Reconcile saved F04 frequency to6 and retain this participant-deduplication check in the finding evidence/observation. Keep original interviews and the other findings unchanged: Interview deduplication reconciliation F04: all six distinct interview participants described the no-results/filter explanation problem. The initial two coded excerpts were a partial extraction; finalized unique-participant frequency is6. Other finding frequencies and the six-interview sample size are unchanged."
+}

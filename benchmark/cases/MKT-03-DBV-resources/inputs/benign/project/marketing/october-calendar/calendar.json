@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "entry_id": "POST-701",
+      "channel_and_time": "Blog | 2026-10-01T09:00:00Z",
+      "copy": "Workspace teams can organize project updates in shared topic views. Explore the October workspace guide for setup steps.",
+      "conditions": "Owned copy. Public launch begins 2026-10-01T09:00:00Z."
+    },
+    {
+      "entry_id": "POST-702",
+      "channel_and_time": "LinkedIn | 2026-10-01T10:00:00Z",
+      "copy": "The October workspace release brings topic views to project updates. Read our launch guide to get started.",
+      "conditions": "Owned copy. Embargo until 2026-10-01T09:00:00Z; launch coordination retains the 10:00 social slot."
+    }
+  ]
+}

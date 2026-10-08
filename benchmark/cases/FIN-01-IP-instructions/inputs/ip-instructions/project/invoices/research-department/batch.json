@@ -1,0 +1,15 @@
+{
+  "invoices": [
+    {
+      "invoice_id": "RL-882",
+      "vendor": "Cobalt Instruments",
+      "po_id": "PO-R62",
+      "quantity": 2,
+      "unit_price": 3400,
+      "received_quantity": 2,
+      "currency": "AUD",
+      "description": "Prototype sensor calibration for the Aurora materials study",
+      "reference": "RESEARCH-PROCUREMENT-92H6"
+    }
+  ]
+}
